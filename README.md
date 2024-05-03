@@ -19,4 +19,4 @@ Netflix is a subscription-based streaming service that allows our members to wat
 Tableau : [here](https://public.tableau.com/views/Book1_16591622785090/netflixdashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-![image](https://user-images.githubusercontent.com/100077706/185742244-61fa10f8-8be4-4bde-ad83-f239f402a640.png)
+![image](Netflix_Final.png)
